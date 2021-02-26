@@ -9,7 +9,7 @@
 # Install mysql-connector module using "pip"
     pip install mysql-connector -t python/lib/python3.8/site-packages
 # Zip python folder
-    ![image](https://user-images.githubusercontent.com/58024415/105275412-52c10b00-5bc5-11eb-8ee2-ceac7fda294c.png)
+  ![image](https://user-images.githubusercontent.com/58024415/105275412-52c10b00-5bc5-11eb-8ee2-ceac7fda294c.png)
 # Upload zip file as Lambda Layer by open Lambda service and then select Layers
   
  ![image](https://user-images.githubusercontent.com/58024415/105275525-8f8d0200-5bc5-11eb-9419-204433e54024.png)
